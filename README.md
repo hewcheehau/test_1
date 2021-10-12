@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+A testing project using Provider
 
 ## Getting Started
 
